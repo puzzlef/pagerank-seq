@@ -1,7 +1,7 @@
-# https://www.kaggle.com/wolfram77/puzzlef-pagerank-nvgraph
+# https://www.kaggle.com/wolfram77/puzzlef-pagerank-seq
 import os
 from IPython.display import FileLink
-src="pagerank-nvgraph"
+src="pagerank-seq"
 inp="/kaggle/input/graphs"
 out="{}.txt".format(src)
 !printf "" > "$out"
@@ -11,11 +11,11 @@ display(FileLink(out))
 
 # Download program
 !rm -rf $src
-!git clone https://github.com/cudaf/$src
+!git clone https://github.com/puzzlef/$src
 !echo ""
 
 # Run
-!nvcc -std=c++17 -Xcompiler -DNVGRAPH_DISABLE -O3 $src/main.cu
+!g++ -std=c++17 -O3 $src/main.cxx
 !stdbuf --output=L ./a.out $inp/web-Stanford.mtx      2>&1 | tee -a "$out"
 !stdbuf --output=L ./a.out $inp/web-BerkStan.mtx      2>&1 | tee -a "$out"
 !stdbuf --output=L ./a.out $inp/web-Google.mtx        2>&1 | tee -a "$out"
