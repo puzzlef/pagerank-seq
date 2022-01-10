@@ -26,8 +26,9 @@ $ ...
 # ...
 ```
 
-[![](https://i.imgur.com/jUgH24r.png)][sheetp]
-[![](https://i.imgur.com/bg2zNx0.png)][sheetp]
+[![](https://i.imgur.com/vtndB2G.png)][sheetp]
+[![](https://i.imgur.com/XCXYdMU.png)][sheetp]
+[![](https://i.imgur.com/jZ9gFi1.png)][sheetp]
 
 <br>
 <br>
@@ -41,6 +42,6 @@ $ ...
 [SuiteSparse Matrix Collection]: https://sparse.tamu.edu
 [pull]: https://github.com/puzzlef/pagerank-push-vs-pull
 [CSR]: https://github.com/puzzlef/pagerank-class-vs-csr
-[charts]: https://photos.app.goo.gl/owJ8YMMpoQQUqLGx5
-[sheets]: https://docs.google.com/spreadsheets/d/1gWzOw_715qpzYxjTvV5ti-lyMcsiqt43Vy9IFyibUGc/edit?usp=sharing
-[sheetp]: https://docs.google.com/spreadsheets/d/e/2PACX-1vQjvsrRquyQ0wE1e33Raz3mOYnTRU-hhTbk1nSRPraM1GkgBBxitL5KQjYwGTgpK7lDhD_ZMqs0jYze/pubhtml
+[charts]: https://photos.app.goo.gl/d4dQ6TppMWb74zDH8
+[sheets]: https://docs.google.com/spreadsheets/d/10WWrZNLVS3SwGfX_YJaT0_T45GQEt2s6Aaoczh3-xcA/edit?usp=sharing
+[sheetp]: https://docs.google.com/spreadsheets/d/e/2PACX-1vTH9kclC5UhGqW8LED_0ymqNqGbowCzHZKtHQtm0-njwNsCshN85D4VVuKLSMTVx0MKSGyd_bx_VIKm/pubhtml
