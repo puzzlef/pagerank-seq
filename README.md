@@ -39,6 +39,13 @@ $ ...
 - [PageRank Algorithm, Mining massive Datasets (CS246), Stanford University](https://www.youtube.com/watch?v=ke9g8hB0MEo)
 - [SuiteSparse Matrix Collection]
 
+<br>
+<br>
+
+
+[![DOI](https://zenodo.org/badge/446454893.svg)](https://zenodo.org/badge/latestdoi/446454893)
+
+
 [SuiteSparse Matrix Collection]: https://sparse.tamu.edu
 [pull]: https://github.com/puzzlef/pagerank-push-vs-pull
 [CSR]: https://github.com/puzzlef/pagerank-class-vs-csr
